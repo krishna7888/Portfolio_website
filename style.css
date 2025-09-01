@@ -4,7 +4,7 @@
   --secondary-color: #6c757d;
   --background-color: rgba(21, 21, 21, 0.037);
   --text-color: rgba(21, 21, 21, 0.037);
-  --highlight-text: rgb(182, 143, 92);
+  --highlight-text: rgb(10, 104, 119);
   --accent-color: #f39c12;
 }
 
@@ -353,4 +353,5 @@ footer {
   padding: 20px;
   background: black;
   color: white;
+
 }
